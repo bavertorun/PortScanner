@@ -1,7 +1,7 @@
 Go Port Scanner
 ============
 
-Port Scanner is a simple port scanning tool created using the Go programming language.
+Port scanner I made with Go programming language.
 
 Usage
 -----
