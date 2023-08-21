@@ -8,7 +8,7 @@ Usage
 
 1.  Clone the project to a local directory or download the ZIP file and extract it:
 
-    git clone https://github.com/BaverTorun/project-name.git
+    git clone https://github.com/BaverTorun/PortScanner.git
 
 3.  Install the required dependencies (not needed if you have Golang installed):
 
